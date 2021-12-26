@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:x="https://www.texmacs.org/2002/extensions" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <head>
+    <title>snapd&#x65E0;&#x6CD5;&#x52A0;&#x8F7D;apparmor&#x914D;&#x7F6E;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;</title>
+    <meta content="TeXmacs 2.1" name="generator"></meta>
+    <link href="../resources/web-article.css" type="text/css" rel="stylesheet"></link>
+    <link href="../resources/favicon.png" rel="icon"></link>
+    <script src="../resources/highlight.pack.js" language="javascript" defer></script>
+    <script src="../resources/notes-base.js" language="javascript" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" language="javascript"></script>
+  </head>
+  <body>
+    <div class="notes-header">
+      <p>
+        <a href="./list-articles.html">[archive]</a><span style="margin-left: 2pt"></span><a href="./main.html">[main]</a><font
+        class="notes-header-name">&#x72F7;&#x58A8;&#x5C45;</font>
+      </p>
+    </div>
+    <table class="title-block" style="margin-bottom: 2em">
+      <tr>
+        <td><table class="title-block" style="margin-top: 0.5em; margin-bottom: 0.5em">
+          <tr>
+            <td><font style="font-size: 168.2%"><strong>snapd&#x65E0;&#x6CD5;&#x52A0;&#x8F7D;apparmor&#x914D;&#x7F6E;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;</strong></font></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+    <center>
+      <p style="margin-top: 0.5em; margin-bottom: 0.5em">
+        <b>Summary</b>
+      </p>
+    </center>
+    <p>
+      <hr></hr>
+    </p>
+    <font style="font-size: 84.1%"><p>
+      &#x56E0;&#x4E3A;&#x65E0;&#x6CD5;&#x81EA;&#x52A8;&#x52A0;&#x8F7D;apparmor&#x914D;&#x7F6E;&#x800C;&#x5BFC;&#x81F4;&#x7684;&#x91CD;&#x542F;&#x540E;&#x5E94;&#x7528;&#x5168;&#x90E8;&#x5931;&#x6548;&#xFF0C;&#x636E;&#x8BF4;&#x662F;snapd&#x7684;&#x4E00;&#x4E2A;&#x8001;&#x95EE;&#x9898;&#x4E86;&#xFF0C;&#x8FD9;&#x91CC;&#x7ED9;&#x51FA;&#x4E00;&#x4E2A;&#x624B;&#x52A8;&#x89E3;&#x51B3;&#x7684;&#x529E;&#x6CD5;&#x3002;
+    </p></font>
+    <p>
+      <hr></hr>
+    </p>
+    <p>
+      &#x5F88;&#x4E45;&#x6CA1;&#x6709;&#x5199;&#x6280;&#x672F;&#x6587;&#x7AE0;&#x4E86;:)
+    </p>
+    <p>
+      Spotify&#x53EA;&#x63D0;&#x4F9B;deb&#x7684;&#x5B89;&#x88C5;&#x5305;&#xFF0C;&#x6240;&#x4EE5;&#x6211;&#x53EA;&#x597D;&#x8F6C;&#x5411;snap&#x6216;&#x8005;appimage&#x4E86;&#x3002;Snap&#x4E0B;spotify&#x8FD0;&#x884C;&#x4E00;&#x5207;&#x826F;&#x597D;&#xFF0C;&#x4F53;&#x9A8C;&#x4E0D;&#x9519;&#x3002;&#x53EA;&#x4E0D;&#x8FC7;&#x7535;&#x8111;&#x91CD;&#x542F;&#x4E4B;&#x540E;&#xFF0C;snapd&#x5C31;&#x56E0;&#x4E3A;apparmor&#x7684;&#x95EE;&#x9898;&#x505C;&#x6B62;&#x5DE5;&#x4F5C;&#x4E86;&#xFF0C;&#x5E76;&#x629B;&#x51FA;&#x5982;&#x4E0B;&#x9519;&#x8BEF;:
+    </p>
+    <pre class="verbatim" xml:space="preserve">
+<code>cannot change profile for the next exec call: No such file or directory 
+snap-update-ns failed with code 1: No such file or directory
+</code></pre>
+    <p>
+      systemd&#x65E5;&#x5FD7;&#x663E;&#x793A;&#x51FA;&#x4E86;&#x8FD9;&#x662F;spotify&#x7684;apparmor&#x914D;&#x7F6E;&#x6CA1;&#x52A0;&#x8F7D;&#x7684;&#x539F;&#x56E0;&#x3002;&#x5728;&#x6211;&#x7684;&#x53D1;&#x884C;&#x7248;(openSUSE
+      Tumbleweed)&#xFF0C;snapd&#x5E94;&#x7528;&#x7684;apparmor&#x914D;&#x7F6E;&#x5728;<code>/var/lib/snapd/apparmor/profile</code>&#x76EE;&#x5F55;&#x4E0B;&#x3002;snapd&#x7684;apparmor&#x81EA;&#x52A8;&#x52A0;&#x8F7D;&#x7EC4;&#x4EF6;&#x5E76;&#x6CA1;&#x6709;&#x62A5;&#x9519;&#xFF0C;&#x4F46;&#x662F;&#x4E0D;&#x77E5;&#x9053;&#x4E3A;&#x4EC0;&#x4E48;&#x914D;&#x7F6E;&#x5E76;&#x6CA1;&#x6709;&#x81EA;&#x52A8;&#x52A0;&#x8F7D;&#x3002;&#x90A3;&#x5C31;&#x53EA;&#x597D;&#x81EA;&#x5DF1;&#x6765;&#xFF1A;
+    </p>
+    <pre class="verbatim" xml:space="preserve">
+<code>sudo apparmor_parse -r /var/lib/snapd/apparmor/profile/*
+</code></pre>
+    <p>
+      &#x4E00;&#x5207;&#x6B63;&#x5E38;&#xFF0C;&#x5B8C;&#x7F8E;&#x3002;
+    </p>
+    <p>
+      <hr></hr>
+    </p>
+    <p>
+      Articles are licensed by <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+      Attribution-ShareAlike 4.0 International</a>. 
+    </p>
+    <p>
+      This page was rendered on <tt class="verbatim">2021-12-26</tt> using TeXmacs
+      version <tt class="verbatim">2.1</tt>.
+    </p>
+  </body>
+</html>
