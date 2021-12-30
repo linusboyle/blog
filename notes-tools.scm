@@ -90,9 +90,9 @@
         (!document 
             (title ,(if (null? title) "(no title)" (car title)))
             (link (@ (rel "alternate") (type "text/html") (hreflang "en") (href 
-                ,(string-append "http://texmacs.github.io/notes/docs/" 
+                ,(string-append "https://docs.linusboyle.cn/blog/"
                                 (string-drop-right file 3) ".html" ))))
-            (id ,(string-append "texmacs.github.io/notes/" file ":" 
+            (id ,(string-append "docs.linusboyle.cn/blog/" file ":"
                                 (strftime "%Y-%m-%dT%H:%M:%SZ"  (localtime mdate "UTC"))))
             (updated   ,(strftime "%Y-%m-%dT%H:%M:%SZ"  (localtime mdate "UTC")))
             (published ,(strftime "%Y-%m-%dT%H:%M:%SZ"  (localtime cdate "UTC")))
@@ -106,18 +106,18 @@
             (feed (@ (xmlns "http://www.w3.org/2005/Atom") (xml:lang "en")) (!document
                 (title "Notes on TeXmacs")
                 (link (@ (rel "alternate") (type "text/html") 
-                         (href "http://texmacs.github.io/notes")))
+                         (href "https://docs.linusboyle.cn/blog")))
                 (link (@ (rel "self") (type "application/atom+xml") 
-                         (href "http://texmacs.github.io/notes/docs/notes.atom")))
+                         (href "https://docs.linusboyle.cn/blog/rss")))
                 (updated ,(strftime "%Y-%m-%dT%H:%M:%SZ"  (gmtime (current-time))))
                 (author (!document
                     (name "The TeXmacs organisation")
                     (uri "http://www.texmacs.org")))
-                (id "texmacs.github.io/notes,2020,1")
+                (id "docs.linusboyle.cn/blog,2020,1")
                 (icon "http://texmacs.github.io/notes/misc/blog-icon.ico")
                 (logo "http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png")
                 ,@(map (lambda (entry) (apply make-atom-entry entry)) articles))))))
-        (string-append (dest-dir) "/notes.atom")))
+        (string-append (dest-dir) "/rss")))
 
 (define (notes-run update?)
     (display* "Source dir :" (src-dir) "\n")
