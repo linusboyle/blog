@@ -10,8 +10,14 @@
   <notes-abstract|A list of all the articles in the website, ordered by the
   most recent modification time.>
 
-  <notes-entry|arinc-661.tm|(no title)|(no abstract)|Thu Dec 30 09:44:20 2021
-  UTC>
+  <notes-entry|list-articles.tm|List of all the articles|A list of all the
+  articles in the website, ordered by the most recent modification time.|Thu
+  Dec 30 12:52:16 2021 UTC>
+
+  <\notes-entry|arinc-661.tm|ARINC 661\<#9A7E\>\<#9A76\>\<#8231\>\<#663E\>\<#793A\>\<#7CFB\>\<#7EDF\>\<#6807\>\<#51C6\>\<#7B80\>\<#8FF0\>>
+    ARINC 661 Specification: Cockpit Display System Interfaces To User
+    System\<#FF08\>\<#9A7E\>\<#9A76\>\<#8231\>\<#663E\>\<#793A\>\<#7CFB\>\<#7EDF\>\<#4EBA\>\<#673A\>\<#63A5\>\<#53E3\>\<#89C4\>\<#8303\>)
+  </notes-entry|Thu Dec 30 12:52:16 2021 UTC>
 
   <\notes-entry|untyped-lambda-calculus.tm|\<#65E0\>\<#7C7B\>\<#578B\>\<lambda\>\<#6F14\>\<#7B97\>\<#7684\>\<#8BED\>\<#6CD5\>\<#4E0E\>\<#8BED\>\<#4E49\>>
     \<#8FD9\>\<#7BC7\>\<#6587\>\<#7AE0\>\<#63CF\>\<#8FF0\>\<#4E86\>\<#65E0\>\<#7C7B\>\<#578B\>\<#7684\>\<lambda\>\<#6F14\>\<#7B97\>\<#7CFB\>\<#7EDF\>\<#7684\>\<#8BED\>\<#6CD5\>\<#548C\>\<#64CD\>\<#4F5C\>\<#8BED\>\<#4E49\>\<#3002\>
@@ -170,10 +176,6 @@
   <\notes-entry|littleendian-ip-checksum-calculation.tm|IP\<#5934\>\<#6821\>\<#9A8C\>\<#548C\>\<#8BA1\>\<#7B97\>\<#7684\>\<#7AEF\>\<#5E8F\>\<#95EE\>\<#9898\>>
     \<#5BF9\>\<#8BA1\>\<#7B97\>IP\<#5934\>\<#6821\>\<#9A8C\>\<#548C\>\<#65F6\>\<#7AEF\>\<#5E8F\>\<#65E0\>\<#5173\>\<#539F\>\<#5219\>\<#7684\>\<#8BF4\>\<#660E\>\<#4E0E\>\<#8BC1\>\<#660E\>
   </notes-entry|Sun Dec 26 13:10:07 2021 UTC>
-
-  <notes-entry|list-articles.tm|List of all the articles|A list of all the
-  articles in the website, ordered by the most recent modification time.|Sun
-  Dec 26 13:10:07 2021 UTC>
 
   <\notes-entry|linear-selection.tm|\<#7EBF\>\<#6027\>\<#9009\>\<#62E9\>\<#7B97\>\<#6CD5\>\<#4E0E\>\<#4E94\>\<#53D6\>\<#6837\>\<#5212\>\<#5206\>\<#8F74\>\<#70B9\>\<#9009\>\<#53D6\>>
     \<#4ECB\>\<#7ECD\>\<#4E25\>\<#683C\>O(n)\<#65F6\>\<#95F4\>\<#7684\>\<#9009\>\<#62E9\>\<#7B97\>\<#6CD5\>\V\V\<#4E94\>\<#53D6\>\<#6837\>\<#5212\>\<#5206\>
