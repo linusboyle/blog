@@ -242,11 +242,10 @@
   <notes-footer>
 </body>
 
-<initial|<\collection>
-</collection>>
-
-<\references>
+<\initial>
   <\collection>
-    <associate|auto-1|<tuple|?|?>>
+    <associate|font|stix>
+    <associate|font-family|rm>
+    <associate|math-font|math-stix>
   </collection>
-</references>
+</initial>

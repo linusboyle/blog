@@ -61,7 +61,7 @@
 :root {
     --text-width: 65ch;
     --text-size: 20pt;
-    --code-size: 14pt;
+    --code-size: 12pt;
 }
 
 /* https://stackoverflow.com/questions/12469875/how-to-code-css-media-queries-targeting-all-mobile-devices-and-tablets/42835826#42835826 */
@@ -73,20 +73,27 @@
 }
 
 html {
-    background-color: white;
+    background-color: #aaaaaa;
     border: 0px;
     padding: 0px;
     margin: 0px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(../resources/bg2-1.jpg);
 }
 
 body {
-    background-color: white;
-    color: black;
+    background-color: rgba(255,255,255,0.9);
+    color: #111;
     font-size: var(--text-size);
     font-family: 'Linux Biolinum', 'Belleza', 'Optima';
     text-align: justify;
-    padding: 0px;
+    padding: 50px;
     margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
     /*ine-height: 150%;*/
     max-width: var(--text-width);
 }
@@ -335,6 +342,7 @@ div.contact > table {
 
 .notes-header-name {
     float: right;
+    /*! vertical-align: middle; */
 }
 
 .tmweb-entry-date {

@@ -1,6 +1,6 @@
 <TeXmacs|2.1.1>
 
-<style|generic2>
+<style|<tuple|generic2|chinese>>
 
 <\body>
   <notes-header>
@@ -276,3 +276,6 @@
 
   <notes-footer>
 </body>
+
+<initial|<\collection>
+</collection>>

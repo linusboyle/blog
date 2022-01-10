@@ -1,6 +1,6 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
-<style|<tuple|generic2|html-font-size>>
+<style|<tuple|generic2|html-font-size|chinese>>
 
 <\body>
   <doc-data|<doc-title|\<#72F7\>\<#58A8\>\<#5C45\>>>
