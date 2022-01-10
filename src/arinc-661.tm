@@ -1,6 +1,6 @@
 <TeXmacs|2.1.1>
 
-<style|<tuple|generic2|chinese>>
+<style|<tuple|generic2|chinese|libertine-font>>
 
 <\body>
   <notes-header>
@@ -244,8 +244,6 @@
 
 <\initial>
   <\collection>
-    <associate|font|stix>
-    <associate|font-family|rm>
-    <associate|math-font|math-stix>
+    <associate|math-font|math-dejavu>
   </collection>
 </initial>

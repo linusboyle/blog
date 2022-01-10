@@ -3,7 +3,7 @@
   <title>Notes on TeXmacs</title>
   <link rel="alternate" type="text/html" href="https://docs.linusboyle.cn/blog"/>
   <link rel="self" type="application/atom+xml" href="https://docs.linusboyle.cn/blog/rss"/>
-  <updated>2021-12-30T12:57:47Z</updated>
+  <updated>2022-01-10T15:39:06Z</updated>
   <author>
     <name>The TeXmacs organisation</name>
     <uri>http://www.texmacs.org</uri>
@@ -12,11 +12,83 @@
   <icon>http://texmacs.github.io/notes/misc/blog-icon.ico</icon>
   <logo>http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png</logo>
   <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#516D><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-6.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-6.tm:2022-01-10T15:38:13Z</id>
+    <updated>2022-01-10T15:38:13Z</updated>
+    <published>2022-01-10T15:38:13Z</published>
+    <summary><document><#7B2C><#516D><#96C6><#FF1A><#6B63><#90AA><#51B2><#51FB></document></summary>
+  </entry>
+  <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#4E94><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-5.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-5.tm:2022-01-10T15:36:56Z</id>
+    <updated>2022-01-10T15:36:56Z</updated>
+    <published>2022-01-10T15:36:56Z</published>
+    <summary><document><#7B2C><#4E94><#96C6><#FF1A><#91D1><#9CDE><#87D2><#90AA></document></summary>
+  </entry>
+  <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#56DB><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-4.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-4.tm:2022-01-10T15:34:52Z</id>
+    <updated>2022-01-10T15:34:52Z</updated>
+    <published>2022-01-10T15:34:52Z</published>
+    <summary><document><#7B2C><#56DB><#96C6><#FF1A><#673A><#7F18><#56FE><#4E0A><#7684><#72D0><#72F8></document></summary>
+  </entry>
+  <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#4E09><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-3.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-3.tm:2022-01-10T15:33:46Z</id>
+    <updated>2022-01-10T15:33:46Z</updated>
+    <published>2022-01-10T15:33:46Z</published>
+    <summary><document><#65B0><#5F02><#6570><#7B2C><#4E09><#548C><#7B2C><#56DB><#96C6><#4E00><#540C><#4E0A><#6620><#FF0C><#8FD9><#662F><#6211><#5BF9><#7B2C><#4E09><#96C6><#7684><#5C0F><#8BC4></document></summary>
+  </entry>
+  <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#4E8C><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-2.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-2.tm:2022-01-10T15:33:16Z</id>
+    <updated>2022-01-10T15:33:16Z</updated>
+    <published>2022-01-10T15:33:16Z</published>
+    <summary><document><#65B0><#5F02><#6570><#7B2C><#4E8C><#96C6><#548C><#7B2C><#4E00><#96C6><#540C><#65F6><#4E0A><#6620><#FF0C><#8FD9><#662F><#6211><#5BF9><#7B2C><#4E8C><#96C6><#7684><#89C2><#611F><#FF0C><#4E3B><#8981><#662F><#4EBA><#7269><#5851><#9020><#65B9><#9762><#7684><#60F3><#6CD5></document></summary>
+  </entry>
+  <entry>
+    <title><#5200><#8BF4><#5F02><#6570><#7B2C><#4E00><#96C6><#5C0F><#8BC4></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-1.html"/>
+    <id>docs.linusboyle.cn/blog/dsys-1.tm:2022-01-10T15:28:54Z</id>
+    <updated>2022-01-10T15:28:54Z</updated>
+    <published>2022-01-10T15:28:54Z</published>
+    <summary><document><#671F><#5F85><#5DF2><#4E45><#7684><#5200><#8BF4><#5F02><#6570><#6B63><#5F0F><#4E0A><#6620><#4E86><#FF0C><#5199><#4E00><#5199><#81EA><#5DF1><#7684><#611F><#53D7><#FF0C><#4E3B><#89C2><#7684><#611F><#60F3><#591A><#4E8E><#5BA2><#89C2><#7684><#8BC4><#70B9></document></summary>
+  </entry>
+  <entry>
+    <title><#5E03><#888B><#620F><#975E><#539F><#521B><#914D><#4E50><#51FA><#5904><#4E00><#89C8><#8868>
+    <#7B2C><#4E00><#8F91></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/palmar-drama-bootleg-vol1.html"/>
+    <id>docs.linusboyle.cn/blog/palmar-drama-bootleg-vol1.tm:2022-01-10T15:12:56Z</id>
+    <updated>2022-01-10T15:12:56Z</updated>
+    <published>2022-01-10T15:12:56Z</published>
+    <summary><document><#672C><#5BF9><#7167><#8868><#6839><#636E><#7F16><#8005><#53D1><#5E03><#4E8E><#54D4><#54E9><#54D4><#54E9><#5F39><#5E55><#7F51><#7684><#7CFB><#5217><#6539><#7F16><#FF0C><#622A><#81F3><#4E8C><#96F6><#4E00><#4E03><#5E74><#516B><#6708><#5341><#516D><#65E5><#66F4><#65B0><#7684><#7B2C><#4E94><#671F><#FF0C><#603B><#5171><#6536><#5F55><#6761><#6570><#4E3A>524<#6761><#3002></document></summary>
+  </entry>
+  <entry>
+    <title><#79D1><#6280><#8FDB><#6B65><#4E0E><#5DF4><#522B><#5854></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/science-and-babel.html"/>
+    <id>docs.linusboyle.cn/blog/science-and-babel.tm:2022-01-10T14:49:34Z</id>
+    <updated>2022-01-10T14:49:34Z</updated>
+    <published>2022-01-10T13:36:09Z</published>
+    <summary><document><#79D1><#6280><#6D6A><#6F6E><#6EDA><#6EDA><#800C><#6765><#FF0C><#5927><#65F6><#4EE3><#4E0B><#7684><#6BCF><#4E2A><#4EBA><#90FD><#88AB><#88F9><#631F><#8FDB><#8FD9><#5DE8><#5927><#7684><#673A><#5668><#4E2D><#FF0C><#65E9><#5DF2><#65E0><#6CD5><#56DE><#5934><#3002><#9664><#4E86><#7EE7><#7EED><#53D1><#5C55><#751F><#4EA7><#529B><#4E4B><#5916><#FF0C><#6CA1><#6709><#529E><#6CD5><#5F7B><#5E95><#6839><#9664><#5176><#5E26><#6765><#7684><#5F0A><#7AEF><#3002><#6447><#6447><#6B32><#5760><#7684><#5DF4><#522B><#5854><#4E5F><#597D><#FF0C><#6781><#5C3D><#5148><#8FDB><#7684><#5927><#90FD><#4F1A><#4E5F><#7F62><#FF0C><#90FD><#662F><#5176><#5E26><#6765><#7684><#771F><#5B9E><#751F><#6D3B><#7684><#4E00><#89D2><#800C><#5DF2><#3002></document></summary>
+  </entry>
+  <entry>
+    <title><#72F7><#58A8><#5C45></title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/main.html"/>
+    <id>docs.linusboyle.cn/blog/main.tm:2022-01-10T14:49:34Z</id>
+    <updated>2022-01-10T14:49:34Z</updated>
+    <published>2022-01-10T13:36:12Z</published>
+  </entry>
+  <entry>
     <title>List of all the articles</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
-    <id>docs.linusboyle.cn/blog/list-articles.tm:2021-12-30T12:52:16Z</id>
-    <updated>2021-12-30T12:52:16Z</updated>
-    <published>2021-12-30T12:50:50Z</published>
+    <id>docs.linusboyle.cn/blog/list-articles.tm:2022-01-10T14:49:34Z</id>
+    <updated>2022-01-10T14:49:34Z</updated>
+    <published>2022-01-10T13:37:36Z</published>
     <summary>A list of all the articles in the website, ordered by the most
     recent modification time.</summary>
   </entry>
@@ -24,9 +96,9 @@
     <title>ARINC
     661<#9A7E><#9A76><#8231><#663E><#793A><#7CFB><#7EDF><#6807><#51C6><#7B80><#8FF0></title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/arinc-661.html"/>
-    <id>docs.linusboyle.cn/blog/arinc-661.tm:2021-12-30T12:52:16Z</id>
-    <updated>2021-12-30T12:52:16Z</updated>
-    <published>2021-12-30T12:57:26Z</published>
+    <id>docs.linusboyle.cn/blog/arinc-661.tm:2022-01-10T14:49:34Z</id>
+    <updated>2022-01-10T14:49:34Z</updated>
+    <published>2022-01-10T14:59:02Z</published>
     <summary><document>ARINC 661 Specification: Cockpit Display System
     Interfaces To User
     System<#FF08><#9A7E><#9A76><#8231><#663E><#793A><#7CFB><#7EDF><#4EBA><#673A><#63A5><#53E3><#89C4><#8303>)</document></summary>
@@ -103,14 +175,6 @@
     <updated>2021-12-26T13:10:07Z</updated>
     <published>2021-12-30T09:44:20Z</published>
     <summary><document><#6CA1><#6709><#6279><#5224><#FF0C><#53EA><#6709><#81EA><#6211><#6279><#5224><#3002><#5199><#5728><#8FD9><#4E2A><#7279><#6B8A><#7684><#65E5><#5B50><#91CC><#FF0C><#6216><#8BB8><#53EA><#662F><#60F3><#6D88><#89E3><#81EA><#5DF1><#7684><#5185><#5FC3><#7F6A><#6076><#611F><#800C><#5DF2><#3002></document></summary>
-  </entry>
-  <entry>
-    <title><#79D1><#6280><#8FDB><#6B65><#4E0E><#5DF4><#522B><#5854></title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/science-and-babel.html"/>
-    <id>docs.linusboyle.cn/blog/science-and-babel.tm:2021-12-26T13:10:07Z</id>
-    <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
-    <summary><document><#79D1><#6280><#6D6A><#6F6E><#6EDA><#6EDA><#800C><#6765><#FF0C><#5927><#65F6><#4EE3><#4E0B><#7684><#6BCF><#4E2A><#4EBA><#90FD><#88AB><#88F9><#631F><#8FDB><#8FD9><#5DE8><#5927><#7684><#673A><#5668><#4E2D><#FF0C><#65E9><#5DF2><#65E0><#6CD5><#56DE><#5934><#3002><#9664><#4E86><#7EE7><#7EED><#53D1><#5C55><#751F><#4EA7><#529B><#4E4B><#5916><#FF0C><#6CA1><#6709><#529E><#6CD5><#5F7B><#5E95><#6839><#9664><#5176><#5E26><#6765><#7684><#5F0A><#7AEF><#3002><#6447><#6447><#6B32><#5760><#7684><#5DF4><#522B><#5854><#4E5F><#597D><#FF0C><#6781><#5C3D><#5148><#8FDB><#7684><#5927><#90FD><#4F1A><#4E5F><#7F62><#FF0C><#90FD><#662F><#5176><#5E26><#6765><#7684><#771F><#5B9E><#751F><#6D3B><#7684><#4E00><#89D2><#800C><#5DF2><#3002></document></summary>
   </entry>
   <entry>
     <title><#9E3F><#722A><#30FB>2021<#5E74>8<#6708></title>
@@ -333,13 +397,6 @@
     <#518D><#89C1><#5B8F><#5927><#53D9><#4E8B></document></summary>
   </entry>
   <entry>
-    <title><#72F7><#58A8><#5C45></title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/main.html"/>
-    <id>docs.linusboyle.cn/blog/main.tm:2021-12-26T13:10:07Z</id>
-    <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
-  </entry>
-  <entry>
     <title>IP<#5934><#6821><#9A8C><#548C><#8BA1><#7B97><#7684><#7AEF><#5E8F><#95EE><#9898></title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/littleendian-ip-checksum-calculation.html"/>
     <id>docs.linusboyle.cn/blog/littleendian-ip-checksum-calculation.tm:2021-12-26T13:10:07Z</id>
@@ -513,7 +570,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/aboutme.html"/>
     <id>docs.linusboyle.cn/blog/aboutme.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2022-01-10T15:21:30Z</published>
     <summary><document><concat><#6B22><#8FCE><#FF01><#6211><#76EE><#524D><#662F><#6E05><#534E><#5927><#5B66><#8F6F><#4EF6><#5B66><#9662><#7684><#535A><#58EB><#751F><#3002><#5728><#53EF><#4EE5><#9884><#89C1><#7684><#672A><#6765><#FF0C><#6211><#7684><#79D1><#7814><#65B9><#5411><#5C06><#662F><strong><#5F62><#5F0F><#5316><#9A8C><#8BC1></strong><#3002><#6700><#8FD1><#6211><#4E3B><#8981><#5173><#6CE8><#7684><#662F><#7EC8><#6B62><#6027><#5206><#6790><#3002><#5982><#679C><#6709><#9700><#8981><#FF0C><#53EF><#4EE5><#901A><#8FC7><#90AE><#7BB1><#8054><#7CFB><#6211><#3002><#7B80><#5386><#6211><#5C31><#4E0D><#7559><#4E86>:)</concat></document></summary>
   </entry>
   <entry>

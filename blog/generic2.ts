@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
 <style|source>
 
@@ -119,8 +119,9 @@
   <assign|notes-footer|<\macro>
     <hrule>
 
-    Articles are licensed by <hlink|Creative Commons Attribution-ShareAlike
-    4.0 International|https://creativecommons.org/licenses/by-sa/4.0/>.\ 
+    Articles are licensed by <hlink|Creative Commons
+    Attribution-NonCommercial-ShareAlike 4.0
+    International|https://creativecommons.org/licenses/by-nc-sa/4.0/>.\ 
 
     This page was rendered on <verbatim|<date|%Y-%m-%d>> using <TeXmacs>
     version <verbatim|<TeXmacs-version>>.

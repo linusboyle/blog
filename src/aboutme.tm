@@ -1,4 +1,4 @@
-<TeXmacs|2.1>
+<TeXmacs|2.1.1>
 
 <style|<tuple|generic2|chinese>>
 
@@ -53,41 +53,32 @@
 
 <\initial>
   <\collection>
+    <associate|font|stix>
+    <associate|font-family|rm>
+    <associate|math-font|math-stix>
     <associate|page-medium|paper>
   </collection>
 </initial>
 
 <\references>
   <\collection>
-    <associate|-|<tuple|?|?>>
-    <associate|--1|<tuple|?|?>>
-    <associate|--2|<tuple|?|?>>
-    <associate|1|<tuple|?|1>>
-    <associate|2|<tuple|?|3>>
+    <associate|-|<tuple|?|1>>
+    <associate|--2|<tuple|?|1>>
     <associate|auto-1|<tuple|?|1>>
-    <associate|auto-2|<tuple|?|3>>
-    <associate|auto-3|<tuple|?|3>>
-    <associate|fn1|<tuple|1|3>>
-    <associate|fn2|<tuple|2|3>>
-    <associate|fn3|<tuple|3|3>>
-    <associate|fn4|<tuple|4|3>>
-    <associate|fnref3:1|<tuple|?|2>>
-    <associate|fnref4|<tuple|?|2>>
+    <associate|auto-2|<tuple|?|1>>
   </collection>
 </references>
 
 <\auxiliary>
   <\collection>
     <\associate|toc>
-      <with|par-left|<quote|1tab>|1 <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|\<#81EA\>\<#8FF0\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-1>>
 
-      <with|par-left|<quote|2tab>|2 <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-2>>
-
-      <with|par-left|<quote|2tab>|\<#53C2\>\<#8003\>\<#6587\>\<#732E\>
+      <with|par-left|<quote|1tab>|\<#72F7\>\<#58A8\>\<#5C45\>\<#7684\>\<#7531\>\<#6765\>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-3>>
+      <no-break><pageref|auto-2>>
     </associate>
   </collection>
 </auxiliary>
