@@ -8,3 +8,5 @@ export LC_ALL=POSIX
 
 texmacs \
 -x '(begin (load "notes-tools.scm") (notes-update) (quit))'
+
+./fix-rss.py
