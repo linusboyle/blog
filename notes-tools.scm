@@ -111,8 +111,8 @@
                          (href "https://docs.linusboyle.cn/blog/rss")))
                 (updated ,(strftime "%Y-%m-%dT%H:%M:%SZ"  (gmtime (current-time))))
                 (author (!document
-                    (name "The TeXmacs organisation")
-                    (uri "http://www.texmacs.org")))
+                    (name "Zhilei Han")
+                    (uri "https://linusboyle.github.io")))
                 (id "docs.linusboyle.cn/blog,2020,1")
                 (icon "http://texmacs.github.io/notes/misc/blog-icon.ico")
                 (logo "http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png")
