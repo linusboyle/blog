@@ -104,7 +104,7 @@
         `(*TOP* (!document 
             (*PI* xml "version=\"1.0\" encoding=\"utf-8\"") 
             (feed (@ (xmlns "http://www.w3.org/2005/Atom") (xml:lang "en")) (!document
-                (title "Notes on TeXmacs")
+                (title "Zhilei Han's Blog")
                 (link (@ (rel "alternate") (type "text/html") 
                          (href "https://docs.linusboyle.cn/blog")))
                 (link (@ (rel "self") (type "application/atom+xml") 
