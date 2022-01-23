@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1>
 
 <style|<tuple|generic2|html-font-size|chinese>>
 
@@ -15,7 +15,7 @@
   <hlink|here|list-articles.tm>, also available as <hlink|RSS/Atom
   feed|../blog/rss>.
 
-  <chapter*|\<#55E8\>\<#FF0C\>\<#4F60\>\<#597D\>\<#FF01\>>
+  <section*|\<#55E8\>\<#FF0C\>\<#4F60\>\<#597D\>\<#FF01\>>
 
   \<#6B22\>\<#8FCE\>\<#6765\>\<#5230\>\<#72F7\>\<#58A8\>\<#5C45\>\<#FF0C\>\<#6211\>\<#662F\>\<#97E9\>\<#5FD7\>\<#78CA\>\<#FF0C\>\<#4E00\>\<#540D\>PhD
   student\<#FF0C\>\<#4E5F\>\<#662F\>\<#4E2A\>\<#5565\>\<#90FD\>\<#4E0D\>\<#4F1A\>\<#7684\>\<#8F6F\>\<#4EF6\>\<#5F00\>\<#53D1\>\<#8005\>\<#3002\>

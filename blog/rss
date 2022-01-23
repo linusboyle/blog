@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Notes on TeXmacs</title>
+  <title>Zhilei Han's Blog</title>
   <link rel="alternate" type="text/html" href="https://docs.linusboyle.cn/blog"/>
   <link rel="self" type="application/atom+xml" href="https://docs.linusboyle.cn/blog/rss"/>
-  <updated>2022-01-22T05:46:30Z</updated>
+  <updated>2022-01-23T08:56:59Z</updated>
   <author>
     <name>Zhilei Han</name>
     <uri>https://linusboyle.github.io</uri>
@@ -12,11 +12,20 @@
   <icon>http://texmacs.github.io/notes/misc/blog-icon.ico</icon>
   <logo>http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png</logo>
   <entry>
+    <title>Operational semantics of PSO storage system</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/pso.html"/>
+    <id>docs.linusboyle.cn/blog/pso.tm:2022-01-23T08:16:03Z</id>
+    <updated>2022-01-23T08:16:03Z</updated>
+    <published>2022-01-23T08:16:03Z</published>
+    <summary><document>Operational semantics of PSO storage
+    system</document></summary>
+  </entry>
+  <entry>
     <title>List of all the articles</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
-    <id>docs.linusboyle.cn/blog/list-articles.tm:2022-01-22T05:35:30Z</id>
-    <updated>2022-01-22T05:35:30Z</updated>
-    <published>2022-01-22T05:35:17Z</published>
+    <id>docs.linusboyle.cn/blog/list-articles.tm:2022-01-22T05:46:42Z</id>
+    <updated>2022-01-22T05:46:42Z</updated>
+    <published>2022-01-23T08:55:07Z</published>
     <summary>A list of all the articles in the website, ordered by the most
     recent modification time.</summary>
   </entry>
@@ -109,7 +118,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/main.html"/>
     <id>docs.linusboyle.cn/blog/main.tm:2022-01-10T14:49:34Z</id>
     <updated>2022-01-10T14:49:34Z</updated>
-    <published>2022-01-22T05:34:07Z</published>
+    <published>2022-01-23T08:36:59Z</published>
   </entry>
   <entry>
     <title>无类型λ演算的语法与语义</title>
@@ -284,11 +293,11 @@
     <summary><document>回到往日时光已不可能，面对平台性垄断的隐私侵犯，只好道一声呜乎哀哉。但是网络不是什么第五空间，只不过是人类生活的一个模型而已，总有些事情，它们永远无法表示，也无法知晓，而这才是生活非机械化之处。</document></summary>
   </entry>
   <entry>
-    <title>随笔・内卷化的政治正确</title>
+    <title>随笔・“内卷化”的政治正确</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/political-correctness-involution.html"/>
     <id>docs.linusboyle.cn/blog/political-correctness-involution.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-26T10:06:15Z</published>
+    <published>2022-01-23T08:52:44Z</published>
     <summary><document>那些真正分分计较、恶性竞争的人，往往没有人批判，反而成了偶像；而那些在底层挣扎、为了完成最基本的要求都需要非常努力的人，倒成了批判的对象。这是舆论应有的导向么？是否可以说，「卷」早就成了既得利益的人用来为自己正名的武器呢？</document></summary>
   </entry>
   <entry>
@@ -361,8 +370,8 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/myzt-123.html"/>
     <id>docs.linusboyle.cn/blog/myzt-123.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-26T08:22:42Z</published>
-    <summary><document>神魔系列创立于2003年那是一个电视布袋戏无比辉煌的年代，在经历了《血魔劫》、《情海魔涛》、《魔纪天下》三部剧集之后，神魔成功地成为了一代戏迷心中的经典。不过，由于一些外部的（以及内部的）原因，自2005年起神魔停更了十余年。2017年七月神魔英雄传第四部《魔云战韬》正式发布，采用了全新的网络免费观看模式。截至目前已经更新至第三集。作为神魔沉寂多年后的全新作品，魔云战韬和原有的神魔剧集有很大的不同，这篇文章简要讲述魔云战韬的故事，并向戏迷郑重推荐萧建平先生的神魔系列。</document></summary>
+    <published>2022-01-23T08:54:38Z</published>
+    <summary><document>神魔系列创立于2003年——那是一个电视布袋戏无比辉煌的年代，在经历了《血魔劫》、《情海魔涛》、《魔纪天下》三部剧集之后，神魔成功地成为了一代戏迷心中的经典。不过，由于一些外部的（以及内部的）原因，自2005年起神魔停更了十余年。2017年七月神魔英雄传第四部《魔云战韬》正式发布，采用了全新的网络免费观看模式。截至目前已经更新至第三集。作为神魔沉寂多年后的全新作品，魔云战韬和原有的神魔剧集有很大的不同，这篇文章简要讲述魔云战韬的故事，并向戏迷郑重推荐萧建平先生的神魔系列。</document></summary>
   </entry>
   <entry>
     <title>追忆我的文艺青年时代</title>
@@ -410,8 +419,8 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/linear-selection.html"/>
     <id>docs.linusboyle.cn/blog/linear-selection.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-26T09:19:59Z</published>
-    <summary><document>介绍严格O(n)时间的选择算法五取样划分</document></summary>
+    <published>2022-01-23T08:55:29Z</published>
+    <summary><document>介绍严格O(n)时间的选择算法——五取样划分</document></summary>
   </entry>
   <entry>
     <title>随笔・学琴琐记</title>
@@ -455,12 +464,12 @@
     definition机制导致的兼容性问题</document></summary>
   </entry>
   <entry>
-    <title>戏曲艺术的未来从电视布袋戏说起</title>
+    <title>戏曲艺术的未来——从电视布袋戏说起</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/future-of-chinese-opera.html"/>
     <id>docs.linusboyle.cn/blog/future-of-chinese-opera.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-26T08:49:09Z</published>
-    <summary><document>这篇文章试图通过这门古老艺术的发展，来探索传统艺术的出路这条出路不一定是好的这也是狷墨试图摆脱的作为一个曾经的布袋戏迷的偏见。但愿这篇呓语能有一点细微的作用，让人们认清人偶之间的异同，从而不再盲目地寻求传承方法。</document></summary>
+    <published>2022-01-23T08:56:14Z</published>
+    <summary><document>这篇文章试图通过这门古老艺术的发展，来探索传统艺术的出路——这条出路不一定是好的——这也是狷墨试图摆脱的作为一个曾经的布袋戏迷的偏见。但愿这篇呓语能有一点细微的作用，让人们认清人偶之间的异同，从而不再盲目地寻求传承方法。</document></summary>
   </entry>
   <entry>
     <title>酬情</title>

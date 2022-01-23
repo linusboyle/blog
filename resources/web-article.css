@@ -273,7 +273,7 @@ tt, .verbatim {
 }
 
 .title-block {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.5em !important;;
     text-align: center;
     width: 100%;
 }
@@ -357,6 +357,18 @@ div.contact > table {
     padding-left:  5em;
     display: block;
     padding-bottom: 1em;
+}
+
+/*
+tweaks
+*/
+
+mjx-container {
+    font-size: 100% !important;
+}
+
+.title-block font {
+    font-size: 100% !important;
 }
 
 /*

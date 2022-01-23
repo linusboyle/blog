@@ -7,7 +7,7 @@
 
   \;
 
-  <doc-data|<doc-title|\<#968F\>\<#7B14\>\<#30FB\>\P\<#5185\>\<#5377\>\<#5316\>\Q\<#7684\>\<#653F\>\<#6CBB\>\<#6B63\>\<#786E\>>>
+  <doc-data|<doc-title|\<#968F\>\<#7B14\>\<#30FB\>\<#201C\>\<#5185\>\<#5377\>\<#5316\>\<#201D\>\<#7684\>\<#653F\>\<#6CBB\>\<#6B63\>\<#786E\>>>
 
   <\notes-abstract>
     \<#90A3\>\<#4E9B\>\<#771F\>\<#6B63\>\<#5206\>\<#5206\>\<#8BA1\>\<#8F83\>\<#3001\>\<#6076\>\<#6027\>\<#7ADE\>\<#4E89\>\<#7684\>\<#4EBA\>\<#FF0C\>\<#5F80\>\<#5F80\>\<#6CA1\>\<#6709\>\<#4EBA\>\<#6279\>\<#5224\>\<#FF0C\>\<#53CD\>\<#800C\>\<#6210\>\<#4E86\>\<#5076\>\<#50CF\>\<#FF1B\>\<#800C\>\<#90A3\>\<#4E9B\>\<#5728\>\<#5E95\>\<#5C42\>\<#6323\>\<#624E\>\<#3001\>\<#4E3A\>\<#4E86\>\<#5B8C\>\<#6210\>\<#6700\>\<#57FA\>\<#672C\>\<#7684\>\<#8981\>\<#6C42\>\<#90FD\>\<#9700\>\<#8981\>\<#975E\>\<#5E38\>\<#52AA\>\<#529B\>\<#7684\>\<#4EBA\>\<#FF0C\>\<#5012\>\<#6210\>\<#4E86\>\<#6279\>\<#5224\>\<#7684\>\<#5BF9\>\<#8C61\>\<#3002\>\<#8FD9\>\<#662F\>\<#8206\>\<#8BBA\>\<#5E94\>\<#6709\>\<#7684\>\<#5BFC\>\<#5411\>\<#4E48\>\<#FF1F\>\<#662F\>\<#5426\>\<#53EF\>\<#4EE5\>\<#8BF4\>\<#FF0C\>\<#300C\>\<#5377\>\<#300D\>\<#65E9\>\<#5C31\>\<#6210\>\<#4E86\>\<#65E2\>\<#5F97\>\<#5229\>\<#76CA\>\<#7684\>\<#4EBA\>\<#7528\>\<#6765\>\<#4E3A\>\<#81EA\>\<#5DF1\>\<#6B63\>\<#540D\>\<#7684\>\<#6B66\>\<#5668\>\<#5462\>\<#FF1F\>
@@ -36,30 +36,3 @@
     <associate|page-medium|paper>
   </collection>
 </initial>
-
-<\references>
-  <\collection>
-    <associate|auto-1|<tuple|?|1>>
-    <associate|auto-2|<tuple|?|1>>
-    <associate|auto-3|<tuple|?|2>>
-    <associate|auto-4|<tuple|?|?>>
-  </collection>
-</references>
-
-<\auxiliary>
-  <\collection>
-    <\associate|toc>
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|\P\<#74E6\>\<#683C\>\<#7EB3\>\<#75C7\>\Q\<#60A3\>\<#8005\>\<#7684\>\<#81EA\>\<#8FF0\>>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-1><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|\<#74E6\>\<#683C\>\<#7EB3\>\<#7684\>\<#6574\>\<#4F53\>\<#827A\>\<#672F\>>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-2><vspace|0.5fn>
-
-      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|\<#5FB7\>\<#610F\>\<#5FD7\>\<#6C11\>\<#65CF\>\<#7684\>\<#7279\>\<#6027\>>
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-3><vspace|0.5fn>
-    </associate>
-  </collection>
-</auxiliary>

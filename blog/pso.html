@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:x="https://www.texmacs.org/2002/extensions" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <head>
+    <title>Operational semantics of PSO storage system</title>
+    <meta content="TeXmacs 2.1" name="generator"></meta>
+    <link href="../resources/web-article.css" type="text/css" rel="stylesheet"></link>
+    <link href="../resources/favicon.png" rel="icon"></link>
+    <script src="../resources/highlight.pack.js" language="javascript" defer></script>
+    <script src="../resources/notes-base.js" language="javascript" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" language="javascript"></script>
+  </head>
+  <body>
+    <div class="notes-header">
+      <p>
+        <a href="./list-articles.html">[archive]</a><span style="margin-left: 2pt"></span><a href="./main.html">[main]</a><font
+        class="notes-header-name">&#x72F7;&#x58A8;&#x5C45;</font>
+      </p>
+    </div>
+    <p>
+      
+    </p>
+    <table class="title-block" style="margin-bottom: 2em">
+      <tr>
+        <td><table class="title-block" style="margin-top: 0.5em; margin-bottom: 0.5em">
+          <tr>
+            <td><font style="font-size: 168.2%"><strong>Operational semantics of PSO storage
+            system</strong></font></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+    <center>
+      <p style="margin-top: 0.5em; margin-bottom: 0.5em">
+        <b>Summary</b>
+      </p>
+    </center>
+    <p>
+      <hr></hr>
+    </p>
+    <font style="font-size: 84.1%"><p>
+      Operational semantics of PSO storage system
+    </p></font>
+    <p>
+      <hr></hr>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      A state consists of a memory \(M : \operatorname{Loc} \rightarrow
+      \operatorname{Val}\) and a function (buffer) \(B : \operatorname{Tid}
+      \rightarrow ( (\operatorname{Loc}
+      \rightarrow
+\operatorname{Val}^{\ast})^{\ast}\)
+    </p>
+    <p>
+      Initially, \(M_0 = \lambda x. 0\), \(B_0 = \lambda i. (\lambda x.
+      \varepsilon)\)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      The propagate rule:
+    </p>
+    <center>
+      \(\displaystyle \frac{x \in \operatorname{Loc}, B (i) = s \cdot S, s (x)
+      = b \cdot v}{M, B
+\xrightarrow{i : \varepsilon} M [x \mapsto v], B [i
+      \mapsto (\lambda y.x = y ?
+b : s (y)) \cdot S]}\)
+    </center>
+    <p>
+      and:
+    </p>
+    <center>
+      \(\displaystyle \frac{B (i) = \varepsilon \cdot S}{M, B \xrightarrow{i :
+      \varepsilon} M, B [i
+\rightarrow S]}\)
+    </center>
+    <p>
+      Store-Store fence rule:
+    </p>
+    <center>
+      \(\displaystyle \frac{l =\operatorname{SF}}{M, B \xrightarrow{i : l} M,
+      \lambda i.B (i) \cdot
+\varepsilon}\)
+    </center>
+    <p>
+      Write rule:
+    </p>
+    <center>
+      \(\displaystyle \frac{l = W (x, v), B (i) = S \cdot s}{M, B
+      \xrightarrow{i : l} B [i
+\rightarrow S \cdot (s [x \rightarrow v \cdot s
+      (x)])]}\)
+    </center>
+    <p>
+      The remaining rules are the same as TSO.
+    </p>
+    <p>
+      <hr></hr>
+    </p>
+    <p>
+      Articles are licensed by <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+      Attribution-ShareAlike 4.0 International</a>. 
+    </p>
+    <p>
+      This page was rendered on <tt class="verbatim">2022-01-23</tt> using TeXmacs
+      version <tt class="verbatim">2.1</tt>.
+    </p>
+  </body>
+</html>
