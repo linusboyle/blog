@@ -1,4 +1,4 @@
-<TeXmacs|2.1.1>
+<TeXmacs|2.1>
 
 <style|source>
 
@@ -89,11 +89,11 @@
   <assign|tmhtml-notes-header-xxx|<macro|<html-div-class|notes-header|<notes-header-image><space|2pt><notes-header-links><html-div-class|notes-header-name|<notes-header-name>>>>>
 
   <assign|notes-abstract|<\macro|body>
+    <hrule>
+
     <\padded-center>
       <with|font-series|bold|Summary>
     </padded-center>
-
-    <hrule>
 
     <small|<arg|body>>
 

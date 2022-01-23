@@ -292,7 +292,7 @@ tt, .verbatim {
 }
 
 img {
-    width: var(--text-width);
+    /*! width: var(--text-width); */
 }
 
 a.feed-icon > img {

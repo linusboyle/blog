@@ -44,7 +44,7 @@
   Write rule:
 
   <\equation*>
-    <frac|l=W<around*|(|x,v|)>,B<around*|(|i|)>=S\<cdot\>s|M,B<long-arrow|\<rubber-rightarrow\>|i:l>B<around*|[|i\<rightarrow\>S\<cdot\><around*|(|s<around*|[|x\<rightarrow\>v\<cdot\>s<around*|(|x|)>|]>|)>|]>>
+    <frac|l=W<around*|(|x,v|)>,B<around*|(|i|)>=S\<cdot\>s|M,B<long-arrow|\<rubber-rightarrow\>|i:l>M,B<around*|[|i\<rightarrow\>S\<cdot\><around*|(|s<around*|[|x\<rightarrow\>v\<cdot\>s<around*|(|x|)>|]>|)>|]>>
   </equation*>
 
   The remaining rules are the same as TSO.
