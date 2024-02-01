@@ -3,7 +3,7 @@
   <title>Zhilei Han's Blog</title>
   <link rel="alternate" type="text/html" href="https://docs.linusboyle.cn/blog"/>
   <link rel="self" type="application/atom+xml" href="https://docs.linusboyle.cn/blog/rss"/>
-  <updated>2023-12-26T06:04:08Z</updated>
+  <updated>2024-02-01T04:01:08Z</updated>
   <author>
     <name>Zhilei Han</name>
     <uri>https://linusboyle.github.io</uri>
@@ -12,10 +12,27 @@
   <icon>http://texmacs.github.io/notes/misc/blog-icon.ico</icon>
   <logo>http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png</logo>
   <entry>
+    <title>鸿爪・2023年12月&2024年1月</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2023-12.html"/>
+    <id>docs.linusboyle.cn/blog/record-2023-12.tm:2024-02-01T04:00:49Z</id>
+    <updated>2024-02-01T04:00:49Z</updated>
+    <published>2024-02-01T04:00:49Z</published>
+    <summary><document>五月天假唱，裁判文书，朱令案等</document></summary>
+  </entry>
+  <entry>
+    <title>List of all the articles</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
+    <id>docs.linusboyle.cn/blog/list-articles.tm:2023-12-26T06:05:28Z</id>
+    <updated>2023-12-26T06:05:28Z</updated>
+    <published>2023-12-26T06:04:08Z</published>
+    <summary>A list of all the articles in the website, ordered by the most
+    recent modification time.</summary>
+  </entry>
+  <entry>
     <title>2023年年末的音乐聆听小结</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/2023-music-listened.html"/>
-    <id>docs.linusboyle.cn/blog/2023-music-listened.tm:2023-12-26T06:03:46Z</id>
-    <updated>2023-12-26T06:03:46Z</updated>
+    <id>docs.linusboyle.cn/blog/2023-music-listened.tm:2023-12-26T06:05:28Z</id>
+    <updated>2023-12-26T06:05:28Z</updated>
     <published>2023-12-26T06:03:46Z</published>
     <summary><document>2023年的新发现：巴洛克流行，民间音乐，以及当代古典。</document></summary>
   </entry>
@@ -25,15 +42,6 @@
     <id>docs.linusboyle.cn/blog/main.tm:2022-03-18T13:09:46Z</id>
     <updated>2022-03-18T13:09:46Z</updated>
     <published>2022-03-18T13:02:36Z</published>
-  </entry>
-  <entry>
-    <title>List of all the articles</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
-    <id>docs.linusboyle.cn/blog/list-articles.tm:2022-03-18T13:09:46Z</id>
-    <updated>2022-03-18T13:09:46Z</updated>
-    <published>2023-12-26T06:01:37Z</published>
-    <summary>A list of all the articles in the website, ordered by the most
-    recent modification time.</summary>
   </entry>
   <entry>
     <title>Operational semantics of PSO storage system</title>
