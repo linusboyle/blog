@@ -3,7 +3,7 @@
   <title>Zhilei Han's Blog</title>
   <link rel="alternate" type="text/html" href="https://docs.linusboyle.cn/blog"/>
   <link rel="self" type="application/atom+xml" href="https://docs.linusboyle.cn/blog/rss"/>
-  <updated>2024-02-01T04:01:08Z</updated>
+  <updated>2024-03-04T13:13:19Z</updated>
   <author>
     <name>Zhilei Han</name>
     <uri>https://linusboyle.github.io</uri>
@@ -14,17 +14,17 @@
   <entry>
     <title>鸿爪・2023年12月&2024年1月</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2023-12.html"/>
-    <id>docs.linusboyle.cn/blog/record-2023-12.tm:2024-02-01T04:00:49Z</id>
-    <updated>2024-02-01T04:00:49Z</updated>
-    <published>2024-02-01T04:00:49Z</published>
+    <id>docs.linusboyle.cn/blog/record-2023-12.tm:2024-02-01T04:01:34Z</id>
+    <updated>2024-02-01T04:01:34Z</updated>
+    <published>2024-03-04T13:11:53Z</published>
     <summary><document>五月天假唱，裁判文书，朱令案等</document></summary>
   </entry>
   <entry>
     <title>List of all the articles</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
-    <id>docs.linusboyle.cn/blog/list-articles.tm:2023-12-26T06:05:28Z</id>
-    <updated>2023-12-26T06:05:28Z</updated>
-    <published>2023-12-26T06:04:08Z</published>
+    <id>docs.linusboyle.cn/blog/list-articles.tm:2024-02-01T04:01:34Z</id>
+    <updated>2024-02-01T04:01:34Z</updated>
+    <published>2024-03-04T13:11:53Z</published>
     <summary>A list of all the articles in the website, ordered by the most
     recent modification time.</summary>
   </entry>
@@ -33,7 +33,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/2023-music-listened.html"/>
     <id>docs.linusboyle.cn/blog/2023-music-listened.tm:2023-12-26T06:05:28Z</id>
     <updated>2023-12-26T06:05:28Z</updated>
-    <published>2023-12-26T06:03:46Z</published>
+    <published>2024-03-04T13:11:53Z</published>
     <summary><document>2023年的新发现：巴洛克流行，民间音乐，以及当代古典。</document></summary>
   </entry>
   <entry>
@@ -41,14 +41,14 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/main.html"/>
     <id>docs.linusboyle.cn/blog/main.tm:2022-03-18T13:09:46Z</id>
     <updated>2022-03-18T13:09:46Z</updated>
-    <published>2022-03-18T13:02:36Z</published>
+    <published>2024-03-04T13:11:53Z</published>
   </entry>
   <entry>
     <title>Operational semantics of PSO storage system</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/pso.html"/>
     <id>docs.linusboyle.cn/blog/pso.tm:2022-01-23T12:29:43Z</id>
     <updated>2022-01-23T12:29:43Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2024-03-04T13:11:53Z</published>
     <summary><document>Operational semantics of PSO storage
     system</document></summary>
   </entry>
@@ -57,7 +57,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/ideal-states-the-ultimate-utopia.html"/>
     <id>docs.linusboyle.cn/blog/ideal-states-the-ultimate-utopia.tm:2022-01-23T12:29:43Z</id>
     <updated>2022-01-23T12:29:43Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2024-03-04T13:11:53Z</published>
     <summary><document>A little bit thinking about the ideal states and
     whether one should form his/her own one, political or
     not.</document></summary>
@@ -67,7 +67,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/assembly-language.html"/>
     <id>docs.linusboyle.cn/blog/assembly-language.tm:2022-01-23T12:29:43Z</id>
     <updated>2022-01-23T12:29:43Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2024-03-04T13:11:53Z</published>
     <summary><document>曾经学习Nand2Tetris时的报告，关于汇编语言及汇编器。</document></summary>
   </entry>
   <entry>
@@ -75,7 +75,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/political-correctness-involution.html"/>
     <id>docs.linusboyle.cn/blog/political-correctness-involution.tm:2022-01-23T08:57:15Z</id>
     <updated>2022-01-23T08:57:15Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2022-01-23T08:52:44Z</published>
     <summary><document>那些真正分分计较、恶性竞争的人，往往没有人批判，反而成了偶像；而那些在底层挣扎、为了完成最基本的要求都需要非常努力的人，倒成了批判的对象。这是舆论应有的导向么？是否可以说，「卷」早就成了既得利益的人用来为自己正名的武器呢？</document></summary>
   </entry>
   <entry>
@@ -83,7 +83,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/myzt-123.html"/>
     <id>docs.linusboyle.cn/blog/myzt-123.tm:2022-01-23T08:57:15Z</id>
     <updated>2022-01-23T08:57:15Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2022-01-23T08:54:38Z</published>
     <summary><document>神魔系列创立于2003年——那是一个电视布袋戏无比辉煌的年代，在经历了《血魔劫》、《情海魔涛》、《魔纪天下》三部剧集之后，神魔成功地成为了一代戏迷心中的经典。不过，由于一些外部的（以及内部的）原因，自2005年起神魔停更了十余年。2017年七月神魔英雄传第四部《魔云战韬》正式发布，采用了全新的网络免费观看模式。截至目前已经更新至第三集。作为神魔沉寂多年后的全新作品，魔云战韬和原有的神魔剧集有很大的不同，这篇文章简要讲述魔云战韬的故事，并向戏迷郑重推荐萧建平先生的神魔系列。</document></summary>
   </entry>
   <entry>
@@ -91,7 +91,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/linear-selection.html"/>
     <id>docs.linusboyle.cn/blog/linear-selection.tm:2022-01-23T08:57:15Z</id>
     <updated>2022-01-23T08:57:15Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2022-01-23T08:55:29Z</published>
     <summary><document>介绍严格O(n)时间的选择算法——五取样划分</document></summary>
   </entry>
   <entry>
@@ -99,7 +99,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/future-of-chinese-opera.html"/>
     <id>docs.linusboyle.cn/blog/future-of-chinese-opera.tm:2022-01-23T08:57:15Z</id>
     <updated>2022-01-23T08:57:15Z</updated>
-    <published>2022-03-18T12:28:47Z</published>
+    <published>2022-01-23T08:56:14Z</published>
     <summary><document>这篇文章试图通过这门古老艺术的发展，来探索传统艺术的出路——这条出路不一定是好的——这也是狷墨试图摆脱的作为一个曾经的布袋戏迷的偏见。但愿这篇呓语能有一点细微的作用，让人们认清人偶之间的异同，从而不再盲目地寻求传承方法。</document></summary>
   </entry>
   <entry>
@@ -108,7 +108,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/palmar-drama-bootleg-vol1.html"/>
     <id>docs.linusboyle.cn/blog/palmar-drama-bootleg-vol1.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:12:56Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>本对照表根据编者发布于哔哩哔哩弹幕网的系列改编，截至二零一七年八月十六日更新的第五期，总共收录条数为524条。</document></summary>
   </entry>
   <entry>
@@ -116,7 +116,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-6.html"/>
     <id>docs.linusboyle.cn/blog/dsys-6.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:38:13Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>第六集：正邪冲击</document></summary>
   </entry>
   <entry>
@@ -124,7 +124,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-5.html"/>
     <id>docs.linusboyle.cn/blog/dsys-5.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:36:56Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>第五集：金鳞蟒邪</document></summary>
   </entry>
   <entry>
@@ -132,7 +132,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-4.html"/>
     <id>docs.linusboyle.cn/blog/dsys-4.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:34:52Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>第四集：机缘图上的狐狸</document></summary>
   </entry>
   <entry>
@@ -140,7 +140,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-3.html"/>
     <id>docs.linusboyle.cn/blog/dsys-3.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:33:46Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>新异数第三和第四集一同上映，这是我对第三集的小评</document></summary>
   </entry>
   <entry>
@@ -148,7 +148,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-2.html"/>
     <id>docs.linusboyle.cn/blog/dsys-2.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:33:16Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>新异数第二集和第一集同时上映，这是我对第二集的观感，主要是人物塑造方面的想法</document></summary>
   </entry>
   <entry>
@@ -156,7 +156,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dsys-1.html"/>
     <id>docs.linusboyle.cn/blog/dsys-1.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T15:28:54Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>期待已久的刀说异数正式上映了，写一写自己的感受，主观的感想多于客观的评点</document></summary>
   </entry>
   <entry>
@@ -165,7 +165,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/arinc-661.html"/>
     <id>docs.linusboyle.cn/blog/arinc-661.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-01-10T14:59:02Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>ARINC 661 Specification: Cockpit Display System
     Interfaces To User
     System（驾驶舱显示系统人机接口规范)</document></summary>
@@ -175,7 +175,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/aboutme.html"/>
     <id>docs.linusboyle.cn/blog/aboutme.tm:2022-01-10T15:41:36Z</id>
     <updated>2022-01-10T15:41:36Z</updated>
-    <published>2022-03-18T13:09:26Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document><concat>欢迎！我目前是清华大学软件学院的博士生。在可以预见的未来，我的科研方向将是<strong>形式化验证</strong>。最近我主要关注的是终止性分析。如果有需要，可以通过邮箱联系我。简历我就不留了:)</concat></document></summary>
   </entry>
   <entry>
@@ -183,7 +183,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/science-and-babel.html"/>
     <id>docs.linusboyle.cn/blog/science-and-babel.tm:2022-01-10T14:49:34Z</id>
     <updated>2022-01-10T14:49:34Z</updated>
-    <published>2022-01-10T13:36:09Z</published>
+    <published>2022-01-22T05:34:07Z</published>
     <summary><document>科技浪潮滚滚而来，大时代下的每个人都被裹挟进这巨大的机器中，早已无法回头。除了继续发展生产力之外，没有办法彻底根除其带来的弊端。摇摇欲坠的巴别塔也好，极尽先进的大都会也罢，都是其带来的真实生活的一角而已。</document></summary>
   </entry>
   <entry>
@@ -191,7 +191,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/untyped-lambda-calculus.html"/>
     <id>docs.linusboyle.cn/blog/untyped-lambda-calculus.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:33:59Z</published>
     <summary><document>这篇文章描述了无类型的λ演算系统的语法和操作语义。</document></summary>
   </entry>
   <entry>
@@ -199,7 +199,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/su-huan-zhen-in-pili.html"/>
     <id>docs.linusboyle.cn/blog/su-huan-zhen-in-pili.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:05:04Z</published>
     <summary>我的第一篇布袋戏评论文章，写的是霹雳早期剧集中的素还真形象。文笔比现在好，可惜说理太次。</summary>
   </entry>
   <entry>
@@ -207,7 +207,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/spring-saunter.html"/>
     <id>docs.linusboyle.cn/blog/spring-saunter.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T11:59:32Z</published>
     <summary><document>南方的春天到来了</document></summary>
   </entry>
   <entry>
@@ -215,7 +215,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/snow-goose.html"/>
     <id>docs.linusboyle.cn/blog/snow-goose.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:52:14Z</published>
     <summary><document>关于美国作家Paul
     Gallico所著的The Snow Goose: A Story of
     Dunkrik一书以及Camel的衍生音乐的一些想法</document></summary>
@@ -225,7 +225,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/snapd-apparmor-load-issue.html"/>
     <id>docs.linusboyle.cn/blog/snapd-apparmor-load-issue.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:27:32Z</published>
     <summary><document>因为无法自动加载apparmor配置而导致的重启后应用全部失效，据说是snapd的一个老问题了，这里给出一个手动解决的办法。</document></summary>
   </entry>
   <entry>
@@ -233,7 +233,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/slay-the-star-monster.html"/>
     <id>docs.linusboyle.cn/blog/slay-the-star-monster.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:20:59Z</published>
     <summary><document>尝试着写的第一篇以霹雳世界为背景的同人武侠。和通常的同人文不太一样，这篇主要是补充一些我臆想的江湖设定而已。</document></summary>
   </entry>
   <entry>
@@ -241,7 +241,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/self-expression.html"/>
     <id>docs.linusboyle.cn/blog/self-expression.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:29:24Z</published>
     <summary><document>闲赋闺怨诗一首</document></summary>
   </entry>
   <entry>
@@ -249,7 +249,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/self-criticism-2019.html"/>
     <id>docs.linusboyle.cn/blog/self-criticism-2019.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:26:09Z</published>
     <summary><document>没有批判，只有自我批判。写在这个特殊的日子里，或许只是想消解自己的内心罪恶感而已。</document></summary>
   </entry>
   <entry>
@@ -257,7 +257,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-08.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-08.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:23:48Z</published>
     <summary><document>《中国话》</document></summary>
   </entry>
   <entry>
@@ -265,7 +265,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-07.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-07.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:22:38Z</published>
     <summary><document>《中国官僚政治研究》</document></summary>
   </entry>
   <entry>
@@ -273,7 +273,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-06.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-06.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:21:39Z</published>
     <summary><document>毕业啦!</document></summary>
   </entry>
   <entry>
@@ -281,7 +281,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-05.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-05.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T13:09:15Z</published>
     <summary><document>一个热情洋溢的季节，一段心潮澎湃的热恋，一次刻骨铭心的褪变</document></summary>
   </entry>
   <entry>
@@ -289,7 +289,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-04.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-04.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:11:55Z</published>
     <summary><document>《红色工程师的崛起》；旧闻2021-04</document></summary>
   </entry>
   <entry>
@@ -297,7 +297,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-03.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-03.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:08:31Z</published>
     <summary><document>旧闻2021-03；《东言西语》；《Mao's
     China and After: A History of The People's
     Republic》</document></summary>
@@ -307,7 +307,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-02.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-02.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:08:41Z</published>
     <summary><document>2021年2月大事记；对辩证法的认识；《坟》</document></summary>
   </entry>
   <entry>
@@ -315,7 +315,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2021-01.html"/>
     <id>docs.linusboyle.cn/blog/record-2021-01.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T11:57:25Z</published>
     <summary><document>旧闻2021-01；《景观社会》；《家庭、私有制和国家的起源》</document></summary>
   </entry>
   <entry>
@@ -323,7 +323,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2020-12.html"/>
     <id>docs.linusboyle.cn/blog/record-2020-12.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T11:54:30Z</published>
     <summary><document>我将对世界的观察和记录简单记录进了这个新的栏目。2020年年末，世界似乎又陷入了不安定，但这也是充满进步和变革的一个月。坚信新的一年会回归正轨，更加美好。</document></summary>
   </entry>
   <entry>
@@ -331,7 +331,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/quicksort-pivot.html"/>
     <id>docs.linusboyle.cn/blog/quicksort-pivot.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:57:49Z</published>
     <summary><document>优化快速排序常数，降低比较次数的一些办法。主要是关于轴点的选取方法，如随机选取，三取样取中值，五取样划分</document></summary>
   </entry>
   <entry>
@@ -339,7 +339,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/push-the-trolley.html"/>
     <id>docs.linusboyle.cn/blog/push-the-trolley.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:40:04Z</published>
     <summary><document>一首托物言志诗，构思于在长安街推车之时</document></summary>
   </entry>
   <entry>
@@ -347,7 +347,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/progressive-rock-radio.html"/>
     <id>docs.linusboyle.cn/blog/progressive-rock-radio.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:54:22Z</published>
     <summary><document>可以正常工作的前摇互联网电台列表（部分）</document></summary>
   </entry>
   <entry>
@@ -355,7 +355,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/privacy.html"/>
     <id>docs.linusboyle.cn/blog/privacy.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2024-03-04T13:12:57Z</published>
     <summary><document>回到往日时光已不可能，面对平台性垄断的隐私侵犯，只好道一声呜乎哀哉。但是网络不是什么第五空间，只不过是人类生活的一个模型而已，总有些事情，它们永远无法表示，也无法知晓，而这才是生活非机械化之处。</document></summary>
   </entry>
   <entry>
@@ -363,7 +363,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/poem-fragment.html"/>
     <id>docs.linusboyle.cn/blog/poem-fragment.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T11:53:22Z</published>
     <summary><document>冬夜望月感遇而作</document></summary>
   </entry>
   <entry>
@@ -371,7 +371,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/poem-190426.html"/>
     <id>docs.linusboyle.cn/blog/poem-190426.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:22:31Z</published>
     <summary><document>此中有真意，欲辩已忘言</document></summary>
   </entry>
   <entry>
@@ -379,7 +379,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/peony-pavilion-comment.html"/>
     <id>docs.linusboyle.cn/blog/peony-pavilion-comment.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:46:39Z</published>
     <summary><document>这是本人写作的一篇十分拙劣的小型论文。我认为牡丹亭的故事是完整的，它的伟大不仅在于情感突破了理性的限制，突破生死的界限。还在于最后情感和理性不能调和的结局，透露出的无限悲剧特质。</document></summary>
   </entry>
   <entry>
@@ -387,7 +387,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/on-feminisim.html"/>
     <id>docs.linusboyle.cn/blog/on-feminisim.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:03:04Z</published>
     <summary><document>当她们联合起来，意识到自己的力量不在于外在的消费、美丽的外表、伟大的道德，而是改变世界的能力时，她们就能以自身的能动性冲破这枷锁。</document></summary>
   </entry>
   <entry>
@@ -395,7 +395,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/octave.html"/>
     <id>docs.linusboyle.cn/blog/octave.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T10:00:48Z</published>
     <summary><document>GNU
     Octave是Matlab的开源替代，在小型数值计算项目上有很多优点。本文介绍其基本特点，兼谈从中体会到的软件开发问题。</document></summary>
   </entry>
@@ -404,7 +404,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/no-lie-down.html"/>
     <id>docs.linusboyle.cn/blog/no-lie-down.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:19:08Z</published>
     <summary><document>假作真时真亦假，无为有处有还无</document></summary>
   </entry>
   <entry>
@@ -412,7 +412,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/never-turn-back.html"/>
     <id>docs.linusboyle.cn/blog/never-turn-back.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:24:49Z</published>
     <summary><document>人身处喧嚣世界，应当如何安放自己？</document></summary>
   </entry>
   <entry>
@@ -420,7 +420,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/myzt-4.html"/>
     <id>docs.linusboyle.cn/blog/myzt-4.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:55:53Z</published>
     <summary><document>这篇文章简要点评魔云战韬第四集的剧情，更多的是对新神魔的一些个人看法</document></summary>
   </entry>
   <entry>
@@ -428,7 +428,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/my-memory-of-literature.html"/>
     <id>docs.linusboyle.cn/blog/my-memory-of-literature.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:37:45Z</published>
     <summary><document>在我成长过程中，文学扮演了浓墨重彩的一笔。这里，我想回顾我的文青岁月，探讨它对我的影响</document></summary>
   </entry>
   <entry>
@@ -436,7 +436,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/my-dream.html"/>
     <id>docs.linusboyle.cn/blog/my-dream.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:12:50Z</published>
     <summary><document>日有所思，夜有所想。</document></summary>
   </entry>
   <entry>
@@ -444,7 +444,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/miscellaneous-poem-1.html"/>
     <id>docs.linusboyle.cn/blog/miscellaneous-poem-1.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:28:31Z</published>
     <summary><document>作于2019年5月20日，为520、贸易战、GPA改革而作</document></summary>
   </entry>
   <entry>
@@ -452,7 +452,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/meng-yi.html"/>
     <id>docs.linusboyle.cn/blog/meng-yi.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:05:31Z</published>
     <summary><document>2021.4.19
     再见宏大叙事</document></summary>
   </entry>
@@ -461,7 +461,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/littleendian-ip-checksum-calculation.html"/>
     <id>docs.linusboyle.cn/blog/littleendian-ip-checksum-calculation.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:45:39Z</published>
     <summary><document>对计算IP头校验和时端序无关原则的说明与证明</document></summary>
   </entry>
   <entry>
@@ -469,7 +469,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/learning-guqin.html"/>
     <id>docs.linusboyle.cn/blog/learning-guqin.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T11:55:42Z</published>
     <summary><document>去年我开始了古琴的学习。回想起来，那段岁月着实很让人怀念。试将感触记录于此</document></summary>
   </entry>
   <entry>
@@ -477,7 +477,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/interactive-fiction-2020.html"/>
     <id>docs.linusboyle.cn/blog/interactive-fiction-2020.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:58:01Z</published>
     <summary><document>疫情期间我在家成功完成了一些互动小说，这里推荐一些十分优秀的作品</document></summary>
   </entry>
   <entry>
@@ -485,7 +485,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/implementation-segment-tree.html"/>
     <id>docs.linusboyle.cn/blog/implementation-segment-tree.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:10:59Z</published>
     <summary><document>新年第一篇，简要介绍一下线段树的通用O(2n)空间实现</document></summary>
   </entry>
   <entry>
@@ -493,7 +493,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/history-of-words.html"/>
     <id>docs.linusboyle.cn/blog/history-of-words.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:46:53Z</published>
     <summary><document>《文字的历史》是前苏联学者B.A.伊斯特林的著名著作，旨在用通俗却严谨的方法讲述文字的起源和发展脉络</document></summary>
   </entry>
   <entry>
@@ -501,7 +501,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/gcc10-and-ocaml.html"/>
     <id>docs.linusboyle.cn/blog/gcc10-and-ocaml.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T10:04:56Z</published>
     <summary><document>C语言tentative
     definition机制导致的兼容性问题</document></summary>
   </entry>
@@ -510,7 +510,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/for-my-love.html"/>
     <id>docs.linusboyle.cn/blog/for-my-love.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:24:50Z</published>
     <summary><document>和阿蔓官宣五律</document></summary>
   </entry>
   <entry>
@@ -518,7 +518,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/feature-shenmo-palmar-drama.html"/>
     <id>docs.linusboyle.cn/blog/feature-shenmo-palmar-drama.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:25:34Z</published>
     <summary><document>本文讲解了神魔布袋戏的艺术特色，并作为为科普神魔艺术而正在筹备的视频的底稿。本人简要分析了神魔为电视布袋戏带来的变革，以及其独特的拍摄手法、剧本模式、呈现本位的价值观等。希望更多的人认识神魔这样一个优秀的电视布袋戏剧集。</document></summary>
   </entry>
   <entry>
@@ -526,7 +526,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/emotion-container.html"/>
     <id>docs.linusboyle.cn/blog/emotion-container.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:36:32Z</published>
     <summary><document>为某好友而作</document></summary>
   </entry>
   <entry>
@@ -534,7 +534,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/done-in-pandemic.html"/>
     <id>docs.linusboyle.cn/blog/done-in-pandemic.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:08:07Z</published>
     <summary><document>四月十四日风雨大作</document></summary>
   </entry>
   <entry>
@@ -542,7 +542,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/dictionaries-and-i.html"/>
     <id>docs.linusboyle.cn/blog/dictionaries-and-i.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:43:18Z</published>
     <summary><document>名与实，文字与思维，抽象与具象，都被包括在了这些工具书中。而随着对语言力量的正视，再度看待这些词典的时候，我便会怀着一种崇敬的心情，去审视那奥妙无穷的文字世界。</document></summary>
   </entry>
   <entry>
@@ -550,7 +550,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/complement-system.html"/>
     <id>docs.linusboyle.cn/blog/complement-system.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:44:48Z</published>
     <summary><document>补码系统在任意数制下的推广</document></summary>
   </entry>
   <entry>
@@ -558,7 +558,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/comment-nie-hai-ji-si-fan.html"/>
     <id>docs.linusboyle.cn/blog/comment-nie-hai-ji-si-fan.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:59:48Z</published>
     <summary><document>看的是梁谷音老师的思凡，借着昆曲课的机会写了一点感想，很不专业，仅作个人参考用</document></summary>
   </entry>
   <entry>
@@ -566,7 +566,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/boundary-of-verification.html"/>
     <id>docs.linusboyle.cn/blog/boundary-of-verification.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:57:02Z</published>
     <summary><document>对学期内OS验证工作的总结。从CertiCore的开发中，我认识到了系统验证最重要的要求：对边界的认识</document></summary>
   </entry>
   <entry>
@@ -574,7 +574,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/bound-validation.html"/>
     <id>docs.linusboyle.cn/blog/bound-validation.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:21:13Z</published>
     <summary><document>「基于安全属性检查的程序上界验证方法」</document></summary>
   </entry>
   <entry>
@@ -582,7 +582,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/art-of-wagner.html"/>
     <id>docs.linusboyle.cn/blog/art-of-wagner.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T08:41:42Z</published>
     <summary><document>一篇关于古典音乐的随笔。笔者很久以前就开始聆听瓦格纳的音乐，虽然没有接受过音乐教育，但是却痴迷于瓦格纳构建的一幕幕充满浪漫主义的悲剧。作为最先接触的古典音乐作曲家，瓦格纳对我的音乐启蒙和其他作曲家截然不同，也使得我的审美风格有所不同</document></summary>
   </entry>
   <entry>
@@ -590,7 +590,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/april-the-season-of-solitude.html"/>
     <id>docs.linusboyle.cn/blog/april-the-season-of-solitude.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T12:06:38Z</published>
     <summary><document>我所期望的是外在于我的东西。那是一个能够交往的主体，一个相似的魂灵，一个共步人生的旅者，一个若合一契的人。</document></summary>
   </entry>
   <entry>
@@ -598,7 +598,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/another-form-of-formalism.html"/>
     <id>docs.linusboyle.cn/blog/another-form-of-formalism.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:53:23Z</published>
     <summary><document>随笔一篇</document></summary>
   </entry>
   <entry>
@@ -606,7 +606,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/abuse-of-pinyin-abbr.html"/>
     <id>docs.linusboyle.cn/blog/abuse-of-pinyin-abbr.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:41:53Z</published>
     <summary><document>不同的圈子塑造了不同的语言环境，就如同在大学校园里，形成了这样一种语言形式：在这里，简单的短语被其拼音简写代替，并夹杂着一些用字母拼接成的图画。</document></summary>
   </entry>
   <entry>
@@ -614,7 +614,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/2019-09-reading.html"/>
     <id>docs.linusboyle.cn/blog/2019-09-reading.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:40:50Z</published>
     <summary><document>《前汉通俗演义》、《基地边缘》、《Depression
     Quest》、《Harmonia》、《Cape》、《Masquerade》、《Violet》</document></summary>
   </entry>
@@ -623,7 +623,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/2019-07-reading.html"/>
     <id>docs.linusboyle.cn/blog/2019-07-reading.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:38:40Z</published>
     <summary><document>《家庭史话》《黑暗精灵三部曲》《马桥词典》《钻石花》《饮酒史话》《软件基础》</document></summary>
   </entry>
   <entry>
@@ -631,7 +631,7 @@
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/2019-06-reading.html"/>
     <id>docs.linusboyle.cn/blog/2019-06-reading.tm:2021-12-26T13:10:07Z</id>
     <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-30T09:44:20Z</published>
+    <published>2021-12-26T09:35:32Z</published>
     <summary><document>《矛盾论》、《基地三部曲》、《怎样学习文言文》、《儒家史话》、《帛书史话》</document></summary>
   </entry>
 </feed>
