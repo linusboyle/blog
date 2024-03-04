@@ -3,7 +3,7 @@
   <title>Zhilei Han's Blog</title>
   <link rel="alternate" type="text/html" href="https://docs.linusboyle.cn/blog"/>
   <link rel="self" type="application/atom+xml" href="https://docs.linusboyle.cn/blog/rss"/>
-  <updated>2024-03-04T13:13:19Z</updated>
+  <updated>2024-03-04T14:27:02Z</updated>
   <author>
     <name>Zhilei Han</name>
     <uri>https://linusboyle.github.io</uri>
@@ -12,21 +12,45 @@
   <icon>http://texmacs.github.io/notes/misc/blog-icon.ico</icon>
   <logo>http://texmacs.github.io/notes/misc/texmacs-blog-transparent.png</logo>
   <entry>
+    <title>鸿爪・2024年2月</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2024-02.html"/>
+    <id>docs.linusboyle.cn/blog/record-2024-02.tm:2024-03-04T14:26:48Z</id>
+    <updated>2024-03-04T14:26:48Z</updated>
+    <published>2024-03-04T14:26:48Z</published>
+    <summary><document>《皇帝魂》、《迷雾之子》三部曲</document></summary>
+  </entry>
+  <entry>
+    <title>鸿爪・2022年2月</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2022-02.html"/>
+    <id>docs.linusboyle.cn/blog/record-2022-02.tm:2024-03-04T13:16:19Z</id>
+    <updated>2024-03-04T13:16:19Z</updated>
+    <published>2024-03-04T13:15:52Z</published>
+    <summary><document>冬奥会、丰县八孩母亲事件，俄乌全面开战</document></summary>
+  </entry>
+  <entry>
+    <title>隐私，无所遁形？</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/privacy.html"/>
+    <id>docs.linusboyle.cn/blog/privacy.tm:2024-03-04T13:13:31Z</id>
+    <updated>2024-03-04T13:13:31Z</updated>
+    <published>2024-03-04T13:12:57Z</published>
+    <summary><document>回到往日时光已不可能，面对平台性垄断的隐私侵犯，只好道一声呜乎哀哉。但是网络不是什么第五空间，只不过是人类生活的一个模型而已，总有些事情，它们永远无法表示，也无法知晓，而这才是生活非机械化之处。</document></summary>
+  </entry>
+  <entry>
+    <title>List of all the articles</title>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
+    <id>docs.linusboyle.cn/blog/list-articles.tm:2024-03-04T13:13:31Z</id>
+    <updated>2024-03-04T13:13:31Z</updated>
+    <published>2024-03-04T13:13:19Z</published>
+    <summary>A list of all the articles in the website, ordered by the most
+    recent modification time.</summary>
+  </entry>
+  <entry>
     <title>鸿爪・2023年12月&2024年1月</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/record-2023-12.html"/>
     <id>docs.linusboyle.cn/blog/record-2023-12.tm:2024-02-01T04:01:34Z</id>
     <updated>2024-02-01T04:01:34Z</updated>
     <published>2024-03-04T13:11:53Z</published>
     <summary><document>五月天假唱，裁判文书，朱令案等</document></summary>
-  </entry>
-  <entry>
-    <title>List of all the articles</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/list-articles.html"/>
-    <id>docs.linusboyle.cn/blog/list-articles.tm:2024-02-01T04:01:34Z</id>
-    <updated>2024-02-01T04:01:34Z</updated>
-    <published>2024-03-04T13:11:53Z</published>
-    <summary>A list of all the articles in the website, ordered by the most
-    recent modification time.</summary>
   </entry>
   <entry>
     <title>2023年年末的音乐聆听小结</title>
@@ -51,16 +75,6 @@
     <published>2024-03-04T13:11:53Z</published>
     <summary><document>Operational semantics of PSO storage
     system</document></summary>
-  </entry>
-  <entry>
-    <title>Ideal States: The Ultimate Utopia?</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/ideal-states-the-ultimate-utopia.html"/>
-    <id>docs.linusboyle.cn/blog/ideal-states-the-ultimate-utopia.tm:2022-01-23T12:29:43Z</id>
-    <updated>2022-01-23T12:29:43Z</updated>
-    <published>2024-03-04T13:11:53Z</published>
-    <summary><document>A little bit thinking about the ideal states and
-    whether one should form his/her own one, political or
-    not.</document></summary>
   </entry>
   <entry>
     <title>Assembly Language</title>
@@ -351,14 +365,6 @@
     <summary><document>可以正常工作的前摇互联网电台列表（部分）</document></summary>
   </entry>
   <entry>
-    <title>隐私，无所遁形？</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/privacy.html"/>
-    <id>docs.linusboyle.cn/blog/privacy.tm:2021-12-26T13:10:07Z</id>
-    <updated>2021-12-26T13:10:07Z</updated>
-    <published>2024-03-04T13:12:57Z</published>
-    <summary><document>回到往日时光已不可能，面对平台性垄断的隐私侵犯，只好道一声呜乎哀哉。但是网络不是什么第五空间，只不过是人类生活的一个模型而已，总有些事情，它们永远无法表示，也无法知晓，而这才是生活非机械化之处。</document></summary>
-  </entry>
-  <entry>
     <title>残篇</title>
     <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/poem-fragment.html"/>
     <id>docs.linusboyle.cn/blog/poem-fragment.tm:2021-12-26T13:10:07Z</id>
@@ -544,14 +550,6 @@
     <updated>2021-12-26T13:10:07Z</updated>
     <published>2021-12-26T09:43:18Z</published>
     <summary><document>名与实，文字与思维，抽象与具象，都被包括在了这些工具书中。而随着对语言力量的正视，再度看待这些词典的时候，我便会怀着一种崇敬的心情，去审视那奥妙无穷的文字世界。</document></summary>
-  </entry>
-  <entry>
-    <title>任意数制补码系统</title>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://docs.linusboyle.cn/blog/complement-system.html"/>
-    <id>docs.linusboyle.cn/blog/complement-system.tm:2021-12-26T13:10:07Z</id>
-    <updated>2021-12-26T13:10:07Z</updated>
-    <published>2021-12-26T09:44:48Z</published>
-    <summary><document>补码系统在任意数制下的推广</document></summary>
   </entry>
   <entry>
     <title>观《孽海记・思凡》有感</title>
